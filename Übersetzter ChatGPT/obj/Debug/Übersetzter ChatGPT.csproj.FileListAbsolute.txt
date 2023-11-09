@@ -1,0 +1,44 @@
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.csproj.AssemblyReference.cache
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.csproj.SuggestedBindingRedirects.cache
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.csproj.CoreCompileInputs.cache
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Übersetzter ChatGPT.exe.config
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Übersetzter ChatGPT.exe
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Übersetzter ChatGPT.pdb
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.exe
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.pdb
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Http.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Newtonsoft.Json.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\OpenAI_API.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Buffers.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Memory.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Numerics.Vectors.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Http.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\Newtonsoft.Json.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\OpenAI_API.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Buffers.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Memory.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Numerics.Vectors.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.exe.config
+D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.csproj.CopyComplete
