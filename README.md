@@ -1,1 +1,2 @@
-# TranslateCode
+# Übersetzter ChatGPT
+Mit diesem Programm ist es möglich, mittels ChatGpt, Quellcode von einer Programmiersprache in eine andere zu übersetzen. Dabei wird Ihre Eingabe mittels Api an ChatGpt übermittelt und Sie bekommen die Übersetzung in der gewünschten Sprache zurück. Wählen sie dazu zuerst die eingebene Sprache, dann geben sie den Quellcode an, und dann die gewünschte Sprache in die überetzt werden soll. 
