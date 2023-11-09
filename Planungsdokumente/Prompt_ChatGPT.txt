@@ -1,0 +1,8 @@
+  string input_language = Console.ReadLine();
+            
+  string code = Console.ReadLine();
+            
+  string output_language = Console.ReadLine();    
+  
+  ChatMessage msg = new ChatMessage();
+  msg.Content = "Übersetzte folgenden" + input_language + "Code:" + code + "in" + output_language;

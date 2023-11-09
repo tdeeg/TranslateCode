@@ -1,0 +1,6 @@
+Anfragen in Datenbank speichern (ca. 2h)
+Veränderbare Prompts für die Übersetzung (ca. 2h)
+Git Repository zur Versionsverwaltung (ca. 1,5h)
+Kurze einführung in Programm selber + Read me Datei (1,5h)
+Planung Graphische Oberfläche (ca. 1h)
+Implementierung Schnittstellen (ca. 5h)
