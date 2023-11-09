@@ -42,3 +42,47 @@ D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter Chat
 D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.exe.config
 D:\Schule\PGC\vs_projects (1)\vs_projects\Übersetzter ChatGPT\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.csproj.CopyComplete
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Übersetzter ChatGPT.exe.config
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Übersetzter ChatGPT.exe
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Übersetzter ChatGPT.pdb
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\OpenAI_API.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Buffers.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Memory.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\OpenAI_API.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Buffers.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Memory.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.csproj.AssemblyReference.cache
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.csproj.SuggestedBindingRedirects.cache
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.exe.config
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.csproj.CopyComplete
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.exe
+C:\Users\saibo\OneDrive\Dokumente\GitHub\TranslateCode\Übersetzter ChatGPT\obj\Debug\Übersetzter ChatGPT.pdb

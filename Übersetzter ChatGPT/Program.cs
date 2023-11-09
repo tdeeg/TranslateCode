@@ -20,7 +20,7 @@ namespace ÜbersetzerChatGPT
 
             //Vorstellung Programm mit Funktionsweise
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine(File.ReadAllText("D:\\Schule\\PGC\\vs_projects (1)\\vs_projects\\Übersetzter ChatGPT\\Beschreibung.txt"));
+            Console.WriteLine(File.ReadAllText("./Beschreibung.txt"));
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Drücken sie Enter");
